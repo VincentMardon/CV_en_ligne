@@ -1,4 +1,4 @@
-## Mon Curriculum Vitae
+# Mon Curriculum Vitae
 
 Ce projet est mon CV en ligne.
 Celui-ci est programmé en HTML5, Sass et Compass.
